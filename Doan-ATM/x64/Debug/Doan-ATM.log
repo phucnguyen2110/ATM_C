@@ -1,0 +1,6 @@
+﻿  Source-ATM.cpp
+E:\School\Môn chuyên ngành\Cấu trúc dữ liệu\Doan-ATM\Doan-ATM\LienKetFiles.h(200): warning C4715: 'LienKetFiles<KhoaTK>::search4': not all control paths return a value
+E:\School\Môn chuyên ngành\Cấu trúc dữ liệu\Doan-ATM\Doan-ATM\LienKetFiles.h(182): warning C4715: 'LienKetFiles<User>::search2': not all control paths return a value
+E:\School\Môn chuyên ngành\Cấu trúc dữ liệu\Doan-ATM\Doan-ATM\LienKetFiles.h(200): warning C4715: 'LienKetFiles<TheTu>::search4': not all control paths return a value
+E:\School\Môn chuyên ngành\Cấu trúc dữ liệu\Doan-ATM\Doan-ATM\LienKetFiles.h(182): warning C4715: 'LienKetFiles<TheTu>::search2': not all control paths return a value
+  Doan-ATM.vcxproj -> E:\School\Môn chuyên ngành\Cấu trúc dữ liệu\Doan-ATM\x64\Debug\Doan-ATM.exe

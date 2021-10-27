@@ -1,0 +1,8 @@
+﻿  Source-ATM.cpp
+C:\Users\Cyrus\Downloads\Doan-ATM\Doan-ATM\Source-ATM.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cyrus\Downloads\Doan-ATM\Doan-ATM\Source-ATM.cpp(135,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cyrus\Downloads\Doan-ATM\Doan-ATM\LienKetFiles.h(192): warning C4715: 'LienKetFiles<TrangThaiTK>::search4': not all control paths return a value
+C:\Users\Cyrus\Downloads\Doan-ATM\Doan-ATM\LienKetFiles.h(174): warning C4715: 'LienKetFiles<User>::search2': not all control paths return a value
+C:\Users\Cyrus\Downloads\Doan-ATM\Doan-ATM\LienKetFiles.h(192): warning C4715: 'LienKetFiles<TheTu>::search4': not all control paths return a value
+C:\Users\Cyrus\Downloads\Doan-ATM\Doan-ATM\LienKetFiles.h(174): warning C4715: 'LienKetFiles<TheTu>::search2': not all control paths return a value
+  Doan-ATM.vcxproj -> C:\Users\Cyrus\Downloads\Doan-ATM\Debug\Doan-ATM.exe
